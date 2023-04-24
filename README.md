@@ -19,15 +19,17 @@ En attendant de trouver un stage, je continue à m'exercer et à apprendre, nota
 - Portfolio : [en construction]
 - CV : [Matthieu Tricoire]()
 
-### ⚡ Une phrase qui me décrit le mieux?
-
 ---
+
+### ⚡ Une phrase qui me décrit le mieux?
 
 "Curieux et touche-à-tout, si je ne suis pas derrière mon pc entrain de coder, c'est que je suis en nature pour remplir ma carte SD."
 
+---
+
 ### 📫 Comment me contacter ?
 
----
+
 
 - matthieutricoire@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/)
