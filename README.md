@@ -3,14 +3,14 @@
 Moi c'est _Matthieu_, <br>
 Après plusieurs années en tant que consultant pour de l'AMOA, puis en tant que ProductOwner, je me suis lancé dans une reconversion professionelle pour devenir Dévelopeur Web.
 
-Suite à un bootcamp (Le Reacteur) réalisé entre Janvier et Mars, je suis _à la recherche d'un stage de 3 à 6 mois_ pour continuer à progresser et mettre en pratique ce que j'ai appris.
-
+Suite à un bootcamp (Le Reacteur) réalisé entre Janvier et Mars, j'ai pu mettre à profit mes connaissances durant un stage de 6 mois chez Recursive. La mission était de créer le MVP d'une webapp en Next.js 13 couplé avec Strapi (headless CMS).
+Je suis maintenant  à l'écoute de nouvelles opportunités professionnelles !
 ---
 
 ### 🌱 Qu-est ce que je fais en ce moment ?
 
-
-En attendant de trouver un stage, je continue à m'exercer et à apprendre, notamment sur _TypeScript, Tailwind CSS_ et j'explore le framework _Next.js_.
+Je continu à travailler sur des petits projts afin de bien intégrer toutes les nouveautés de Next 14.
+Création d'une site statique couplé avec Sanity pour une connaissance.
 
 ---
 
@@ -39,19 +39,4 @@ En attendant de trouver un stage, je continue à m'exercer et à apprendre, nota
 N'hésitez pas à me contacter !<br>
 J'ai hâte d'acquérir de nouvelles connaissances 🧠 et de gagner en expérience 🏭 !
 
----
 
-<!--
-**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
