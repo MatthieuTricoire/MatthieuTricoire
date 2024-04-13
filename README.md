@@ -18,7 +18,7 @@ Création d'une site statique couplé avec Sanity pour une connaissance.
 ### 📖 Pour en savoir plus sur moi :
 
 - Portfolio : [en construction]
-- CV : [Matthieu Tricoire]()
+- CV : [Matthieu Tricoire](CV-Matthieu-Tricoire-EN.pdf)
 
 ---
 
