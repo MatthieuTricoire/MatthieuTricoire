@@ -5,6 +5,7 @@ Après plusieurs années en tant que consultant pour de l'AMOA, puis en tant que
 
 Suite à un bootcamp (Le Reacteur) réalisé entre Janvier et Mars, j'ai pu mettre à profit mes connaissances durant un stage de 6 mois chez Recursive. La mission était de créer le MVP d'une webapp en Next.js 13 couplé avec Strapi (headless CMS).
 Je suis maintenant  à l'écoute de nouvelles opportunités professionnelles !
+
 ---
 
 ### 🌱 Qu-est ce que je fais en ce moment ?
