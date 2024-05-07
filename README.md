@@ -11,13 +11,13 @@ Je suis maintenant  à l'écoute de nouvelles opportunités professionnelles !
 ### 🌱 Qu-est ce que je fais en ce moment ?
 
 Je continu à travailler sur des petits projts afin de bien intégrer toutes les nouveautés de Next 14.
-Création d'une site statique couplé avec Sanity pour une connaissance.
+Création d'un site pour un studio d'architecture (Next.js couplé avec le CMS Sanity)
 
 ---
 
 ### 📖 Pour en savoir plus sur moi :
 
-- Portfolio : [en construction]
+- Portfolio : [https://www.matthieutricoire.fr/](https://www.matthieutricoire.fr/)
 - CV : [Matthieu Tricoire](CV-Matthieu-Tricoire-EN.pdf)
 
 ---
